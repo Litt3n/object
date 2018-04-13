@@ -1,8 +1,0 @@
-_vehicle_195 = objNull;
-if (true) then
-{
-  _this = createVehicle ["CinderWall_DZ", [8162.9429, 9180.416, -0.030452875], [], 0, "CAN_COLLIDE"];
-  _vehicle_195 = _this;
-  _this setDir 66.614159;
-  _this setPos [8162.9429, 9180.416, -0.030452875];
-};
