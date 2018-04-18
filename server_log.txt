@@ -1,0 +1,47 @@
+14:38:30 BattlEye Server: Initialized (v1.217)
+14:38:31 Идентификатор сервера создан
+14:38:56 Game Port: 2302, Steam Query Port: 2303
+14:41:01 asd использует измененный файл данных
+14:41:01 BattlEye Server: Player #0 asd (192.168.1.102:2316) connected
+14:41:01 Игрок asd соединяется.
+14:41:03 Задание DayZ Epoch Chernarus считывается из папки.
+14:41:19 BattlEye Server: Failed to resolve BE Master 'arma2oa1.battleye.com'
+14:41:19 BattlEye Server: Disconnected from BE Master
+14:41:20 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+14:42:20 Игрок asd отсоединился.
+14:42:20 BattlEye Server: Player #0 asd disconnected
+14:42:20 Все игроки отсоединились, ожидаю игроков.
+14:42:22 asd использует измененный файл данных
+14:42:22 BattlEye Server: Player #0 asd (192.168.1.102:2316) connected
+14:42:22 Игрок asd соединяется.
+14:42:22 Задание DayZ Epoch Chernarus считывается из папки.
+14:42:23 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+14:42:54 Игрок asd отсоединился.
+14:42:54 BattlEye Server: Player #0 asd disconnected
+14:42:54 Все игроки отсоединились, ожидаю игроков.
+14:43:48 BattlEye Server: Initialized (v1.217)
+14:43:48 Идентификатор сервера создан
+14:44:12 Game Port: 2302, Steam Query Port: 2303
+14:44:12 asd использует измененный файл данных
+14:44:12 BattlEye Server: Player #0 asd (192.168.1.102:2316) connected
+14:44:13 Игрок asd соединяется.
+14:44:14 Задание DayZ Epoch Chernarus считывается из папки.
+14:44:28 BattlEye Server: Failed to resolve BE Master 'arma2oa1.battleye.com'
+14:44:28 BattlEye Server: Disconnected from BE Master
+14:44:29 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+14:44:46 Игрок asd отсоединился.
+14:44:46 BattlEye Server: Player #0 asd disconnected
+14:44:46 Все игроки отсоединились, ожидаю игроков.
+14:46:41 BattlEye Server: Initialized (v1.217)
+14:46:41 Идентификатор сервера создан
+14:47:05 Game Port: 2302, Steam Query Port: 2303
+14:47:15 asd использует измененный файл данных
+14:47:15 BattlEye Server: Player #0 asd (192.168.1.102:2316) connected
+14:47:15 Игрок asd соединяется.
+14:47:16 Задание DayZ Epoch Chernarus считывается из папки.
+14:47:30 BattlEye Server: Failed to resolve BE Master 'arma2oa1.battleye.com'
+14:47:30 BattlEye Server: Disconnected from BE Master
+14:47:31 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+14:47:54 Игрок asd отсоединился.
+14:47:54 BattlEye Server: Player #0 asd disconnected
+14:47:54 Все игроки отсоединились, ожидаю игроков.
